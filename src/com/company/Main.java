@@ -8,10 +8,15 @@ public class Main {
         String a="Abhinav";
         System.out.println(a);
         System.out.println("Let's perform some arithmetic operations");
+<<<<<<< HEAD
         System.out.println("It's important to learn JAVA and GIT");
         System.out.println("C++ is a good language to start off, especially for beginners"); 
         int x=78;
         int y=80;
+=======
+        int x=90;
+        int y=100;
+>>>>>>> test
         System.out.println("There There");
         System.out.println(y+x);
         System.out.println(y-x);
