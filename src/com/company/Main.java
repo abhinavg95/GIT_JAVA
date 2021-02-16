@@ -19,5 +19,6 @@ public class Main {
         System.out.println(y/x);
         System.out.println("Here");
         System.out.println("It's very important to upskill in this competitive world");
+        System.out.println("Leetcode and Interviewbit are good websites for practicing data structures and algorithms");
     }
 }
