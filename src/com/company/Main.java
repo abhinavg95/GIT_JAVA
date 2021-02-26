@@ -25,5 +25,6 @@ public class Main {
         System.out.println("Leetcode and Interviewbit are good websites for practicing data structures and algorithms");
         System.out.println("It's good to be here");
         System.out.println("Mickey Minnie Donald Daisy Goofy");
+        System.out.println("Dragon Ball Z");
     }
 }
