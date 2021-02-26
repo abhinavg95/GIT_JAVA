@@ -35,5 +35,7 @@ public class Main {
         System.out.println("The Factory Method Pattern is also known as Virtual Constructor.");
         System.out.println("An Abstract Factory Pattern is also known as Kit.");
         System.out.println("Rohit should start bowling some off-spin");
+        System.out.println("Ishant just played 100 test matches");
+        System.out.println("Kohli is a good captain");
     }
 }
