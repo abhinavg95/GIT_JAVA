@@ -48,5 +48,8 @@ public class Main {
         System.out.println("Let's talk about Aussie Spinners");
         System.out.println("Warne");
         System.out.println("Lyon");
+        System.out.println("Kiwi Spinners");
+        System.out.println("Vettori");
+        System.out.println("Santner");
     }
 }
