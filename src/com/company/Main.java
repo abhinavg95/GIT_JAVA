@@ -37,5 +37,8 @@ public class Main {
         System.out.println("Rohit should start bowling some off-spin");
         System.out.println("Ishant just played 100 test matches");
         System.out.println("Kohli is a good captain");
+        System.out.println("Let's talk about openers");
+        System.out.println("Sehwag and Sachin were my favourite opening player");
+        System.out.println("Sehwag and Gambhir were good too");
     }
 }
