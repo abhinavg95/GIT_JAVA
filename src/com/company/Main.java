@@ -28,5 +28,6 @@ public class Main {
         System.out.println("Dragon Ball Z");
         System.out.println("Naruto");
         System.out.println("Harvey and Mike");
+        System.out.println("Joey doesn't share food");
     }
 }
