@@ -40,5 +40,10 @@ public class Main {
         System.out.println("Let's talk about openers");
         System.out.println("Sehwag and Sachin were my favourite opening player");
         System.out.println("Sehwag and Gambhir were good too");
+        System.out.println("Let's talk about spinners");
+        System.out.println("Kumble");
+        System.out.println("Harbhajan");
+        System.out.println("Ashwin");
+        System.out.println("Jaddu");
     }
 }
