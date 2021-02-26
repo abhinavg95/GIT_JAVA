@@ -26,5 +26,7 @@ public class Main {
         System.out.println("It's good to be here");
         System.out.println("Mickey Minnie Donald Daisy Goofy");
         System.out.println("Dragon Ball Z");
+        System.out.println("Naruto");
+        System.out.println("Harvey and Mike");
     }
 }
