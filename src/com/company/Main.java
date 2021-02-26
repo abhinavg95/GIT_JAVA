@@ -54,5 +54,8 @@ public class Main {
         System.out.println("Protean Spinners");
         System.out.println("Nicky Boje");
         System.out.println("Imran Tahir");
+        System.out.println("English Spinners");
+        System.out.println("Monty Panesar");
+        System.out.println("Grame Smith");
     }
 }
