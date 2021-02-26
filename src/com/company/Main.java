@@ -45,5 +45,8 @@ public class Main {
         System.out.println("Harbhajan");
         System.out.println("Ashwin");
         System.out.println("Jaddu");
+        System.out.println("Let's talk about Aussie Spinners");
+        System.out.println("Warne");
+        System.out.println("Lyon");
     }
 }
