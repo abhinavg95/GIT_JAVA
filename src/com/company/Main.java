@@ -31,6 +31,6 @@ public class Main {
         System.out.println("Joey doesn't share food");
         System.out.println("Kevin Pietersen is the best English Batsmen");
         System.out.println("Ricky Ponting is the best Aussie Batsmen");
-        
+        System.out.println("Ashwin and Jaddu are great");
     }
 }
