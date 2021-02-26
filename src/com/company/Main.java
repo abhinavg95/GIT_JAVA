@@ -51,5 +51,8 @@ public class Main {
         System.out.println("Kiwi Spinners");
         System.out.println("Vettori");
         System.out.println("Santner");
+        System.out.println("Protean Spinners");
+        System.out.println("Nicky Boje");
+        System.out.println("Imran Tahir");
     }
 }
