@@ -32,5 +32,6 @@ public class Main {
         System.out.println("Kevin Pietersen is the best English Batsmen");
         System.out.println("Ricky Ponting is the best Aussie Batsmen");
         System.out.println("Ashwin and Jaddu are great");
+        System.out.println("The Factory Method Pattern is also known as Virtual Constructor.");
     }
 }
